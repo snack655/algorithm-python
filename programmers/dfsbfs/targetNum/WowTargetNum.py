@@ -1,5 +1,5 @@
 def solution(numbers, target):
-    if not numbers and target == 0 :
+    if not numbers and target == 0:
         return 1
     elif not numbers:
         return 0
